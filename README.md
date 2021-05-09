@@ -18,7 +18,7 @@ This will returen a scaled array of arrays of your data.
 #Supervised Machine Learning  
 There are multiple machine learning class objects that can easily be used with any scaled data.  
   
-Support Vector Machine:  
+<ins>Support Vector Machine:</ins>  
 In the below example my scaled data is "name_of_scaled_data.scale()" because it's coming from the scaling class object above.  
 To fit and predict:  
 name = SVM(name_of_scaled_data.scale(), target, name_of_unscaled_df)  
