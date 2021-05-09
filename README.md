@@ -1,5 +1,5 @@
 # BIOF509-Final-Project
-This is the repository for my BIOF509 Final Project__
+This is the repository for my BIOF509 Final Project  
 Any Questions, please contact me: joshua.breidenbach@rockets.utoledo.edu
 
 File Name: BIOF509 - Applied Machine Learning - Final Project - Joshua Breidenbach.ipynb
